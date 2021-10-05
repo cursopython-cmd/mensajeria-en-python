@@ -1,0 +1,2 @@
+# mensajeria-en-python
+copiar: mensaje = "siempre es bueno la programacion!!" mensaje += "  " mensaje += "by cursopython-cmd" print (mensaje) mensaje = "para paticipantes en hacktoberfest!!" mensaje += "  " mensaje += "by cursopython-cmd" print (mensaje) mensaje = "www.hacktoberfest.digitalocean.com" mensaje += "  " mensaje += "by cursopython-cmd" print (mensaje)  mensaje = "unete i aprende programacion !!" mensaje += "  " mensaje += "by cursopython-cmd" print (mensaje)
